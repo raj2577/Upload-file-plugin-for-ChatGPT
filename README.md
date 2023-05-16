@@ -3,6 +3,7 @@ Upload file for Chat GPT
 Upload file for Chat GPT is a Chrome extension that enables easy file uploading and processing for Chat GPT. It allows you to break large text files into chunks and submit them sequentially to Chat GPT for efficient conversation processing.
 
 Features
+
 File Upload: Select and upload text files (e.g., .txt, .js, .py, .html, .css, .json, .csv) directly from your computer.
 Chunk Processing: Automatically splits large text files into smaller chunks for better handling and sends them to Chat GPT one by one.
 Progress Tracking: Track the progress of file upload and chunk processing through a visual progress bar.
